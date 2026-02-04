@@ -1,4 +1,4 @@
-module github.com/D8-X/global-rpc
+module github.com/D8-X/globalrpc
 
 go 1.25.1
 
